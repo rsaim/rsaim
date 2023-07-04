@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saim Raza</h1>
 <h3 align="center">A passionate Backend/Full-Stack Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaim&label=Profile%20views&color=0e75b6&style=flat" alt="rsaim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsaim" alt="rsaim" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsaim" alt="rsaim" /></a> </p> -->
 
 - 🔭 I’m currently working on **Global Markets Trading Open World Competition platform for fixed income market making (a.k.a., SKIM) @ Citi**
 
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **saim.raza@nyu.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O1_ffR2uyjf6qSB5isAcsPL6sh1ZCC3w/view?usp=sharing](https://drive.google.com/file/d/1O1_ffR2uyjf6qSB5isAcsPL6sh1ZCC3w/view?usp=sharing)
+- 📄 <a href="https://drive.google.com/file/d/1O1_ffR2uyjf6qSB5isAcsPL6sh1ZCC3w/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **I'm a Black Belt in Taekwondo**
 
@@ -40,3 +38,4 @@
 -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsaim&" alt="rsaim" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaim&label=Profile%20views&color=0e75b6&style=flat" alt="rsaim" /> </p>
