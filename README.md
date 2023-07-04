@@ -3,7 +3,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsaim" alt="rsaim" /></a> </p> -->
 
-- 🔭 I’m currently working on **Global Markets Trading Open World Competition platform for fixed income market making (a.k.a., SKIM) @ Citi**
+- 🔭 I’m currently working on Global Markets Trading Open World Competition platform for fixed income market making (a.k.a., SKIM) @ Citi
+
+- 🔭 Previously, I spent over half-a-decade crunching code for Wall Street @ <a href="https://www.deshaw.com/" rel="noreferrer" target="_blank">D. E. Shaw &amp; Co. </a>I have also worked at <a href="https://www.nasa.gov/" rel="noreferrer" target="_blank"> NASA </a>,<a href="https://liveramp.com/" rel="noreferrer" target="_blank"> LiveRamp, </a><a href="https://www.skillet.ai/" rel="noreferrer" target="_blank"> skillet.ai, </a>and<a href="https://www.drdo.gov.in/" rel="noreferrer" target="_blank"> DRDO. </a>
+
+- I am highly proficient in core Python and classics like <b class="purple"> Javascript, C++, and JAVA </b>
+
+- I'm interested in building new  <b class="purple">Software Technologies and Products </b> to be used at large-scale
 
 - 🌱 I’m currently pursuing **MS CS @ New York University, Courant**
 
