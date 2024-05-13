@@ -16,9 +16,7 @@
 
 - 💬 Ask me about **system design, programming paradigms like asynchronous programming, multithreading & distributed computing, Cloud (AWS, GCP)**
 
-- 📫 Reach me @ **saim.raza@nyu.edu**
-
-- 📄 <a href="https://drive.google.com/file/d/1O1_ffR2uyjf6qSB5isAcsPL6sh1ZCC3w/view?usp=sharing">Resume</a>
+- 📫 Reach me @ **saim.raza<at>nyu<dot>edu**
 
 - ⚡ Fun fact: **I'm a Black Belt in Taekwondo**
 
