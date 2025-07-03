@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Saim Raza</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A Backend & GenAI-focused Software Engineer with a taste for large-scale systems</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsaim" alt="rsaim" /></a> </p> -->
 
-- 🔭 I’m currently working on Global Markets Trading Open World Competition platform for fixed income market making (a.k.a., SKIM) @ Citi as a part of my **MS CS @ New York University, Courant**
+- 🔭 I’m currently building AI-first marketing and infrastructure automation platforms using GenAI (LLMs, RAG, Vector DBs) and high-throughput distributed systems (600K+ RPS)
 
-- 🔭 Previously, I spent over half-a-decade crunching code for Wall Street @ <a href="https://www.deshaw.com/" rel="noreferrer" target="_blank">D. E. Shaw &amp; Co. </a>I have also worked at <a href="https://www.nasa.gov/" rel="noreferrer" target="_blank"> NASA </a>,<a href="https://liveramp.com/" rel="noreferrer" target="_blank"> LiveRamp, </a><a href="https://www.skillet.ai/" rel="noreferrer" target="_blank"> skillet.ai, </a>and<a href="https://www.drdo.gov.in/" rel="noreferrer" target="_blank"> DRDO. </a>
+- 💼 Previously, I spent over half a decade engineering trading infrastructure @ <a href="https://www.deshaw.com/" target="_blank" rel="noreferrer">D. E. Shaw & Co.</a>. I've also worked at <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">NASA</a>, <a href="https://www.bloomberg.com/" target="_blank" rel="noreferrer">Bloomberg</a>, <a href="https://citi.com/" target="_blank" rel="noreferrer">Citi</a>, <a href="https://www.skillet.ai/" target="_blank" rel="noreferrer">Skillet.ai</a>, and <a href="https://www.drdo.gov.in/" target="_blank" rel="noreferrer">DRDO</a>
 
-- I am highly proficient in core **Python** and classics like <b class="purple"> Javascript, C++, and JAVA </b>
+- 🧠 My specialties include **Python (Expert)**, **Golang**, and classics like **Java, JavaScript, and C++**
 
-- I'm interested in building new  <b class="purple">Software Technologies and Products </b> to be used at large-scale
+- ⚙️ I love building scalable, low-latency backends, GenAI agents, and observability tools that just don’t break
 
+- ☁️ Strong hands-on with **Cloud Platforms** (GCP, AWS), **DevOps** (Terraform, K8s, CI/CD), and **Modern Data Stacks**
 
-<!-- - 📝 I regularly write articles on [https://medium.com/@rsaim](https://medium.com/@rsaim) -->
+- 💬 Ask me about **asynchronous programming, distributed systems, vector search, RAG pipelines, or infra at scale**
 
-- 💬 Ask me about **system design, programming paradigms like asynchronous programming, multithreading & distributed computing, Cloud (AWS, GCP)**
+- 📫 Reach me at **saim.raza [at] nyu.edu** or visit my site 👉 <a href="https://rsaim.info" target="_blank">rsaim.info</a>
 
-- 📫 Reach me @ **saim.raza<at>nyu<dot>edu**
+- ⚡ Fun fact: I once built a pickling library 100x faster than cloudpickle... just because I could 🥷
 
-- ⚡ Fun fact: **I'm a Black Belt in Taekwondo**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
