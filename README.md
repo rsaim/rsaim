@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **asynchronous programming, distributed systems, vector search, RAG pipelines, or infra at scale**
 
-- 📫 Reach me at **saim.raza [at] nyu.edu** or visit my site 👉 <a href="https://rsaim.info" target="_blank">rsaim.info</a>
+- 📫 Reach me at **saimorsaim [at] gmail.com** or visit my site 👉 <a href="https://rsaim.info" target="_blank">rsaim.info</a>
 
 - ⚡ Fun fact: I once built a pickling library 100x faster than cloudpickle... just because I could 🥷
 
