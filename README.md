@@ -1,28 +1,21 @@
 <h1 align="center">Hi 👋, I'm Saim Raza</h1>
-<h3 align="center">A Backend & GenAI-focused Software Engineer with a taste for large-scale systems</h3>
+<h3 align="center">A Backend & GenAI-focused Software Engineer</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsaim" alt="rsaim" /></a> </p> -->
+<p>
+  👨‍💻 I specialize in building large-scale, production-grade software — from ⚙️ scalable backend systems and 🌐 full-stack apps to 🧠 agentic GenAI workflows.
+</p>
 
-- 🔭 I’m currently building AI-first marketing and infrastructure automation platforms using GenAI (LLMs, RAG, Vector DBs) and high-throughput distributed systems (600K+ RPS)
+<p>
+  🧰 My stack includes expert-level Core Python 🐍, Golang 🦫, JavaScript/TypeScript ⚡, C/C++ 🚀, Java ☕, and cloud-native development ☁️.
+</p>
 
-- 💼 Previously, I spent over half a decade engineering trading infrastructure @ <a href="https://www.deshaw.com/" target="_blank" rel="noreferrer">D. E. Shaw & Co.</a>. I've also worked at <a href="https://www.nasa.gov/" target="_blank" rel="noreferrer">NASA</a>, <a href="https://www.bloomberg.com/" target="_blank" rel="noreferrer">Bloomberg</a>, <a href="https://citi.com/" target="_blank" rel="noreferrer">Citi</a>, <a href="https://www.skillet.ai/" target="_blank" rel="noreferrer">Skillet.ai</a>, and <a href="https://www.drdo.gov.in/" target="_blank" rel="noreferrer">DRDO</a>
+<p>
+  🤖 My work blends Generative AI, ML, cloud architecture, and DevOps — crafting systems that are not only intelligent, but also resilient, reliable, and scalable at scale 📈.
+</p>
 
-- 🧠 My specialties include **Python (Expert)**, **Golang**, and classics like **Java, JavaScript, and C++**
-
-- ⚙️ I love building scalable, low-latency backends, GenAI agents, and observability tools that just don’t break
-
-- ☁️ Strong hands-on with **Cloud Platforms** (GCP, AWS), **DevOps** (Terraform, K8s, CI/CD), and **Modern Data Stacks**
-
-- 💬 Ask me about **asynchronous programming, distributed systems, vector search, RAG pipelines, or infra at scale**
-
-- 📫 Reach me at **saimorsaim [at] gmail.com** or visit my site 👉 <a href="https://rsaim.info" target="_blank">rsaim.info</a>
-
-- ⚡ Fun fact: I once built a pickling library 100x faster than cloudpickle... just because I could 🥷
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<ul>
+  <li>📫 Reach me: <strong>saimorsaim [at] gmail.com</strong> or visit 👉 <a href="https://rsaim.info" target="_blank">rsaim.info</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
