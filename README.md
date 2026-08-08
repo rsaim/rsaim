@@ -1,42 +1,35 @@
 
 <h1 align="center">Saim Raza</h1>
 
-<h3 align="center">AI Systems • Distributed Architecture • Platform Engineering • Trading Infrastructure</h3>
+<h3 align="center">AI Systems & Distributed Infrastructure</h3>
 
 <p align="center">
-Building deterministic AI systems that scale.
+AI systems that fail predictably, not creatively.
 </p>
 
 ---
 
-I design the infrastructure behind production AI systems, from large-scale distributed platforms and autonomous agents to low-latency services powering business-critical applications. My focus is building reusable platforms that improve reliability, reduce operational complexity, accelerate product delivery, and enable AI systems to operate safely and predictably in production.
+Currently building production AI systems — agent runtimes, real-time voice pipelines, and low-latency gRPC services. Before that: distributed platforms for high-scale marketplaces, where the p99 latency chart was treated with the seriousness it deserved.
 
-### What I Build
+I care about AI that doesn't surprise operators at 3am. Determinism, honest evals, and quiet dashboards over demo-day magic.
 
-- **AI Platforms**: Agent runtimes, model serving, inference infrastructure, evaluation pipelines, and multi-model orchestration
-- **Distributed Architecture**: Streaming systems, event-driven platforms, fault-tolerant services, and data-intensive backends
-- **Platform Engineering**: Shared infrastructure, deployment systems, observability, CI/CD, and engineering enablement at scale
-- **Performance & Reliability**: Latency optimization, runtime efficiency, resilience, scalability, and operational excellence
-- **Applied AI Systems**: Transformer architectures, inference optimization, retrieval systems, autonomous workflows, and production LLM applications
-- **Business-Critical Infrastructure**: Systems designed for correctness, determinism, auditability, and measurable product impact
+### Domains
+
+- **Agent runtimes** — multi-agent orchestration (planner / critic / supervisor), tool use, MCP
+- **Real-time voice** — streaming STT/TTS, WebRTC, VAD, barge-in
+- **Retrieval infra** — hybrid RAG (BM25 + dense + rerank), vector stores, semantic caching
+- **Low-latency services** — gRPC, .NET 8 / ASP.NET Core, Windows service deploys (yes, really)
+- **Distributed data & observability** — streaming pipelines, OTel, evals-as-monitoring
 
 ---
 
-**Speaker**
+**Speaker** — PyCon India 2020: ["Python Serialization and the Hallows of Parallel Computing"](https://www.youtube.com/watch?v=u3QyAGVE2n4) — yes, pickle is still cursed
 
-PyCon India 2020: ["Python Serialization and the Hallows of Parallel Computing"](https://www.youtube.com/watch?v=u3QyAGVE2n4) — yes, pickle is still cursed
+**Publication** — [Multi-Stage Tracking for Precise Localization of Targets in Video Sequences](https://doi.org/10.1016/j.eswa.2017.02.007) · Expert Systems with Applications (Elsevier)
 
-**Publication**
+**Education** — MS Computer Science, NYU · B.Tech Mathematics & Computing, DTU
 
-[Multi-Stage Tracking for Precise Localization of Targets in Video Sequences](https://doi.org/10.1016/j.eswa.2017.02.007) — Expert Systems with Applications (Elsevier)
-
-**Education**
-
-MS Computer Science, NYU · B.Tech Mathematics & Computing, DTU
-
-**Links**  
-
-[rsaim.info](https://rsaim.info) • [LinkedIn](https://linkedin.com/in/raza-saim) • [Medium](https://medium.com/@rsaim) • saimorsaim [at] gmail.com
+**Reach** — [rsaim.info](https://rsaim.info) · [LinkedIn](https://linkedin.com/in/raza-saim) · [Medium](https://medium.com/@rsaim) · saimorsaim [at] gmail.com
 
 <hr>
 
