@@ -40,42 +40,49 @@ MS Computer Science, NYU · B.Tech Mathematics & Computing, DTU
 
 <hr>
 
-<p align="left">
-<!-- <b>Languages</b>&nbsp;&nbsp; -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-</p>
+**Languages**
 
-<p align="left">
-<!-- <b>AI / ML</b>&nbsp;&nbsp;&nbsp;&nbsp; -->
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></a>
-<a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons/openai.svg" alt="openai" width="40" height="40"/></a>
-<a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/anthropic.svg" alt="anthropic" width="40" height="40"/></a>
- <a href="https://ollama.com/" target="_blank" rel="noreferrer"><img src="https://ollama.com/public/ollama.png" alt="ollama" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
-</p>
+  <p align="center">
+    <img src="assets/languages/python.svg?v=2" width="104" height="104" alt="Python" />
+    <img src="assets/languages/csharp.svg?v=2" width="104" height="104" alt="C#" />
+    <img src="assets/languages/go.svg?v=2" width="104" height="104" alt="Go" />
+    <img src="assets/languages/javascript.svg?v=2" width="104" height="104" alt="JavaScript" />
+    <img src="assets/languages/typescript.svg?v=2" width="104" height="104" alt="TypeScript" />
+    <img src="assets/languages/java.svg?v=2" width="104" height="104" alt="Java" />
+    <img src="assets/languages/sql.svg?v=2" width="104" height="104" alt="SQL" />
+    <img src="assets/languages/c.svg?v=2" width="104" height="104" alt="C" />
+    <img src="assets/languages/cpp.svg?v=2" width="104" height="104" alt="C++" />
+    <img src="assets/languages/bash.svg?v=2" width="104" height="104" alt="Bash" />
+  </p>
 
-<p align="left">
-<!-- <b>Infrastructure</b>&nbsp;&nbsp; -->
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
+**AI Systems**
+
+  <p align="center">
+    <img src="assets/ai/anthropic.svg?v=2" width="104" height="104" alt="Anthropic" />
+    <img src="assets/ai/openai.svg?v=2" width="104" height="104" alt="OpenAI" />
+    <img src="assets/ai/vertexai.svg?v=2" width="104" height="104" alt="Vertex AI" />
+    <img src="assets/ai/pytorch.svg?v=2" width="104" height="104" alt="PyTorch" />
+    <img src="assets/ai/huggingface.svg?v=2" width="104" height="104" alt="Hugging Face" />
+    <img src="assets/ai/langgraph.svg?v=2" width="104" height="104" alt="LangGraph" />
+    <img src="assets/ai/pinecone.svg?v=2" width="104" height="104" alt="Pinecone" />
+  </p>
+
+**Infrastructure**
+
+  <p align="center">
+    <img src="assets/infra/aws.svg?v=3" width="104" height="104" alt="AWS" />
+    <img src="assets/infra/azure.svg?v=3" width="104" height="104" alt="Azure" />
+    <img src="assets/infra/gcp.svg?v=3" width="104" height="104" alt="GCP" />
+    <img src="assets/infra/kubernetes.svg?v=3" width="104" height="104" alt="Kubernetes" />
+    <img src="assets/infra/docker.svg?v=3" width="104" height="104" alt="Docker" />
+    <img src="assets/infra/terraform.svg?v=3" width="104" height="104" alt="Terraform" />
+    <img src="assets/infra/kafka.svg?v=3" width="104" height="104" alt="Kafka" />
+    <img src="assets/infra/grafana.svg?v=3" width="104" height="104" alt="Grafana" />
+  </p>
 
 <!--- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsaim&show_icons=true&locale=en" alt="rsaim" /></p>
 -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsaim&" alt="rsaim" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsaim&" alt="rsaim" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaim&label=Profile%20views&color=0e75b6&style=flat" alt="rsaim" /> </p>
