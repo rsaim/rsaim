@@ -8,18 +8,12 @@ AI systems that fail predictably, not creatively.
 </p>
 
 ---
-
-Currently building production AI systems — agent runtimes, real-time voice pipelines, and low-latency gRPC services. Before that: distributed platforms for high-scale marketplaces, where the p99 latency chart was treated with the seriousness it deserved.
-
-I care about AI that doesn't surprise operators at 3am. Determinism, honest evals, and quiet dashboards over demo-day magic.
-
-### Domains
-
-- **Agent runtimes** — multi-agent orchestration (planner / critic / supervisor), tool use, MCP
-- **Real-time voice** — streaming STT/TTS, WebRTC, VAD, barge-in
-- **Retrieval infra** — hybrid RAG (BM25 + dense + rerank), vector stores, semantic caching
-- **Low-latency services** — gRPC, .NET 8 / ASP.NET Core, Windows service deploys (yes, really)
-- **Distributed data & observability** — streaming pipelines, OTel, evals-as-monitoring
+ 
+AI/ML: inference runtimes · agent harnesses & sandboxed execution · guardrails & evals (LLM-as-judge, golden datasets) · human-in-the-loop design · replayable, deterministic pipelines
+ 
+Systems: on-prem platform buildouts · LLMOps · distributed infrastructure · agent observability
+ 
+Previously: high-scale ad marketplaces (sub-ms p99, 600k+ RPS) · trading infrastructure at D. E. Shaw · scientific computing at NASA
 
 ---
 
